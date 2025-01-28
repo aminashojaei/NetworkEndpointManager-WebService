@@ -1,6 +1,7 @@
 import os
 import platform
 
+
 def restart_system():
     """
     سیستم را ری‌استارت می‌کند.
